@@ -1,0 +1,2 @@
+# SimDjango
+simulasi django
